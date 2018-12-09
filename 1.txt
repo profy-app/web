@@ -26,8 +26,6 @@ else if(clicked_id=="sub")
 document.getElementById("answer").value=val1-val2;
 else if(clicked_id=="mul")
 document.getElementById("answer").value=val1*val2;
-FDP-Web Technology Lab With Mini Project – 15CSL77 2018-2019
-Dept. of ISE & CSE, RNSIT Page 5
 else if(clicked_id=="div")
 document.getElementById("answer").value=val1/val2;
 }
